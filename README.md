@@ -1,3 +1,19 @@
+<h1>Installation</h1>
+<ul>
+  <li>Set your .env file</li>
+  <li>Open console and find project destination</li>
+  <li>php artisan migrate</li>
+  <li>php artisan db:seed</li>
+  <li>php artisan serve</li>
+</ul>
+
+<h3>First Login Details</h3>
+<ul>
+  <li>Url: http://127.0.0.1:8000/login</li>
+  <li>Username: admin@test.com</li>
+  <li>Password: 123456</li>
+</ul>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
